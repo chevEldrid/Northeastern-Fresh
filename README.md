@@ -1,4 +1,5 @@
-# Northeastern-Fresh
-Freshman year projects
+# Northeastern Freshman Projects
 
-A compilation of the biggest projects completed during Freshman year at Northeastern University
+Schoolwork from Fundamentals of Computer Science 1,2, and Logic and Computation
+
+Languages used: Racket, Java, ACL2s
